@@ -94,6 +94,10 @@ sort_desc( list_lifts )
   - `floor 31-40` : 7 lifts running in parallel. This group of lifts is separate from all others.
   - `floor 41-50` : 5 lifts running in parallel. This group of lifts is separate from all others.
 
+
+### Example Diagram
+![Example_Diagram](https://github.com/alpha74/highRiseBuildingElevator_problem/blob/master/assets/diag1.jpg)
+
 -----
 
 
